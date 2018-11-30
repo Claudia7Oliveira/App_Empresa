@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppEmpresa</string>
+    <string name="dados">
+        \n email: sword.com
+        \n tel: 555-555-555
+        \n endereço: rua opala, n°137
+        \n Xangri-lá
+        \n\n
+        \n horario de funcionamento:
+        \n das 8:00h ás 22:00h
+        \n
+        \n
+    </string>
+</resources>
